@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #f8edeb;
+  margin: 0px;
+}
+
+h1 {
+  border-bottom-right-radius: 2rem;
+  border-bottom-left-radius: 2rem;
+  color: #f28482;
+  font-weight: 900;
+  margin: 0rem 0rem 3rem 0rem;
+  padding: 1rem;
+}
+
+input {
+  padding: 1rem;
+  width: 80%;
+}
+
+footer {
+  background-color: #f28482;
+  border-top-right-radius: 2rem;
+  border-top-left-radius: 2rem;
+  margin: 4rem 0rem 0rem 0rem;
+  font-weight: 400;
+  padding: 3rem 0rem 4rem 0rem;
+}
